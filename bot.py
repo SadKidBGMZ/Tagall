@@ -35,8 +35,8 @@ async def start(event):
     link_preview=False,
     buttons=(
        [
-        Button.url(' support', 'https://t.me/chucky_support'),
-        Button.url('creater', 'https://t.me/kittu_the_criminall')
+        Button.url(' support', 'https://t.me/thanimaisupport'),
+        Button.url('creater', 'https://t.me/sarbudeen786')
     ],
     )
   )
@@ -49,8 +49,8 @@ async def help(event):
     link_preview=False,
     buttons=(
       [
-        Button.url(' support', 'https://t.me/chucky_support'),
-        Button.url('creater', 'https://t.me/kittu_the_criminall')
+        Button.url(' support', 'https://t.me/thanimaisupport'),
+        Button.url('creater', 'https://t.me/sarbudeen786')
       ]
     )
   )
