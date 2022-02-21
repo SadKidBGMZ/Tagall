@@ -1,4 +1,17 @@
-# Tagallbot
+
+#TAG All Bot
+
+_**This bot can mention members upto 10,000 in groups and can mention members upto 200 in channels !**_
+
+# 🏷 Infomation
+
+- Language: Python.
+
+- Telegram Library: Telethon.
+
+
+
+
 telegram telegramtagallbot
 <img src="https://telegra.ph/file/49066410d76c3534fda24.jpg?style=flat-square&logo=python&color=blue" /> </a>
 
